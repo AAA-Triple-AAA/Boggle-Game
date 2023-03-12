@@ -9,6 +9,7 @@
 	-fx-font-weight: bold;
     -fx-font-size: 75;
     -fx-text-fill: red;
+    -fx-border-radius: 50%;
 }
 
 /* Default button for other button */
